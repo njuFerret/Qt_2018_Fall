@@ -22,7 +22,7 @@
 
 ## 以下为仓库首页README.md示例
 
-## 作业仓库：1403010101
+## 作业仓库：1403010101 [![Build Status](https://travis-ci.org/njuFerret/Qt_2018_Fall.svg?branch=master)](https://travis-ci.org/njuFerret/Qt_2018_Fall)
 
 1. homework01。 提交日期：2018-09-16，实现作业一要求的功能，共提交了xx次。
 - 第一次提交：实现xxx，
