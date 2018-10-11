@@ -9,7 +9,7 @@
 5. 每次作业一个目录，请以homework01、homework02、...命名；
 6. 实验目录，请以lab01,lab02、...命名；
 7. 每次作业完成之后，请在自己的仓库首页README.md文件中，及时更新说明（使用[markdown语法]( https://coding.net/help/doc/project/markdown.html )），阐明什么时间完成了哪一个作业。
-8. 在每个作业目录内（如homework01）,说明提交的具体信息。
+8. 在每个作业或实验目录内（如homework01、lab01）,说明提交的具体信息。
 9. 请勿将编译中间文件上传至目录（xxxx-debug）文件夹，仓库只上传源文件。
 
 具体见示例。
