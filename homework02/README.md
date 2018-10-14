@@ -120,10 +120,14 @@ private:
 bool myCmp::operator()(const studData &d1, const studData &d2)
 {
     bool result = false;
+    quint32 sortedColumn = 0x00000001<<currentColumn;
+    switch (sortedColumn) {
+    case SK::col01:
     // ...
     // 请补全运算符重载函数
     // ...
     //
+    }
     return result;
 
 }
