@@ -47,7 +47,7 @@
 第1列为学号，第2列为姓名。第3~N列为课程成绩列，数据行数、列数不定。
 数据总列数小于16列。
 
-1. 设数据文件名为data.txt，请从数据文件导入数据后实现实验一任务；
+1. 设数据文件名为data.txt(请在此下载：[https://github.com/njuFerret/Qt_2018_Fall/raw/master/homework02/data.txt]( https://github.com/njuFerret/Qt_2018_Fall/raw/master/homework02/data.txt ))，请从数据文件导入数据后实现实验一任务；
 2. 排序后的数据以文本文件(UTF-8编码)形式保存，文件名为sorted_data.txt，保存格式同示例输出。
 3. 请编写实现类，实现如下方式调用。
 
