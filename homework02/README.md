@@ -142,11 +142,28 @@ public:
     // ...    
 }
 
+// 请补全
+ScoreSorter::ScoreSorter(QString dataFile){
+}
 
+
+void myMessageOutput(QtMsgType type, const QMessageLogContext &context, const QString &msg)
+{
+    // 自定义qDebug
+}
 
 int main()
 {
-    ScoreSorter s("data.txt"); 
+    qInstallMessageHandler(myMessageOutput);
+    QString datafile = "data.txt";
+
+    // 如果排序后文件已存在，则删除之
+    QFile f("sorted_"+datafile);
+    if (f.exists()){
+        f.remove();
+    }
+
+    ScoreSorter s(datafile); 
     s.readFile(); 
     s.doSort();
     return 0;
