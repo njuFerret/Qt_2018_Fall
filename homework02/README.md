@@ -53,7 +53,7 @@
 1. 设数据文件名为data.txt(请在此下载：[https://github.com/njuFerret/Qt_2018_Fall/raw/master/homework02/data.txt]( https://github.com/njuFerret/Qt_2018_Fall/raw/master/homework02/data.txt ))，请从数据文件导入数据后实现实验一任务；
 2. 排序后的数据以文本文件(UTF-8编码)形式保存，文件名为sorted_data.txt，保存格式同示例输出。
 3. 请编写实现类，实现如下方式调用。
-4. (附加题）每位同学的成绩添加一列平均分，根据前面的课程，求出其平均分后，进行排序（如表2所示）
+4. 每位同学的成绩添加一列平均分，根据前面的课程，求出其平均分后，进行排序（如表2所示）
 
 
 表2.示例输出
